@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/NezitX/objstr/main/assets/logo.png" alt="objstr">
+  <img width="500" src="https://raw.githubusercontent.com/NezitX/resolvex/main/assets/logo.png" alt="resolvex">
 </p>
 
 <div align="center">
@@ -15,15 +15,15 @@
 
 [![NPM downloads][download-image]][download-url] &nbsp; &nbsp;
 [![NPM version][npm-image]][npm-url] &nbsp; &nbsp;
-![License](https://img.shields.io/npm/l/objstr) &nbsp; &nbsp;
+![License](https://img.shields.io/npm/l/resolvex) &nbsp; &nbsp;
 
-[npm-image]: https://img.shields.io/npm/v/objstr.svg?color=42cfff
+[npm-image]: https://img.shields.io/npm/v/resolvex.svg?color=42cfff
 
-[npm-url]: https://npmjs.org/package/objstr
+[npm-url]: https://npmjs.org/package/resolvex
 
-[download-image]: https://img.shields.io/npm/dt/objstr.svg?color=3182b0
+[download-image]: https://img.shields.io/npm/dt/resolvex.svg?color=3182b0
 
-[download-url]: https://npmjs.org/package/objstr
+[download-url]: https://npmjs.org/package/resolvex
 
   </div>
 
@@ -34,7 +34,7 @@
 ## Installation
 Install the package using `npm`:
 ```bash
-npm install --save-dev objstr
+npm install --save-dev resolvex
 ```
 
 ## Usage
@@ -44,7 +44,7 @@ import {
   resolveObjValue,
   resolveCondition, 
   resolveMath 
-} from 'objstr';
+} from 'resolvex';
 
 console.log(resolve(`$1`, false)('hello world'));                          // hello world
 console.log(resolve('$1>8')(9));                                           // true
@@ -96,10 +96,10 @@ resolveMath(value: string): Number
 This package is for personal use but i hope this package help someone if needed something like this. 
 
 ## Bugs & Feedbacks
-any report for bugs or feedbacks you can create [issue here](https://github.com/NezitX/objstr/issues).
+any report for bugs or feedbacks you can create [issue here](https://github.com/NezitX/resolvex/issues).
 
 ## Contributing
-All [Contributing](https://github.com/NezitX/objstr/pulls) are welcome `:)`
+All [Contributing](https://github.com/NezitX/resolvex/pulls) are welcome `:)`
 
 ## License
 This package is under `MIT` license.
