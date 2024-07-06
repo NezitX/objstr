@@ -1,0 +1,29 @@
+{
+  "name": "objstr",
+  "version": "1.0.0",
+  "description": "A simple package to interact with object using string easily.",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "object",
+    "obj",
+    "string",
+    "str",
+    "math",
+    "stringMath",
+    "condition",
+    "checkCondition"
+  ],
+  "author": "NezitX",
+  "license": "MIT",
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ]
+}
