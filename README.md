@@ -96,7 +96,7 @@ resolveMath(value: string): Number
 This package is for personal use but i hope this package help someone if needed something like this. 
 
 ## Bugs & Feedbacks
-any report for bugs or feedbacks you can create [issue here]().
+any report for bugs or feedbacks you can create [issue here](https://github.com/NezitX/objstr/issues).
 
 ## Contributing
 All [Contributing](https://github.com/NezitX/objstr/pulls) are welcome `:)`
