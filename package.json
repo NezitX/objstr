@@ -25,5 +25,13 @@
     "README.md",
     "LICENSE",
     "package.json"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/NezitX/objstr/issues"
+  },
+  "homepage": "https://github.com/NezitX/objstr#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NezitX/objstr.git"
+  }
 }
