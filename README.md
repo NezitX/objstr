@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/NezitX/resolvex/main/assets/logo.png" alt="resolvex">
+  <img width="500" src="https://raw.githubusercontent.com/NezitX/resolvex/main/assets/logo.png" alt="objstr-resolver">
 </p>
 
 <div align="center">
@@ -15,15 +15,15 @@
 
 [![NPM downloads][download-image]][download-url] &nbsp; &nbsp;
 [![NPM version][npm-image]][npm-url] &nbsp; &nbsp;
-![License](https://img.shields.io/npm/l/resolvex) &nbsp; &nbsp;
+![License](https://img.shields.io/npm/l/objstr-resolver) &nbsp; &nbsp;
 
-[npm-image]: https://img.shields.io/npm/v/resolvex.svg?color=42cfff
+[npm-image]: https://img.shields.io/npm/v/objstr-resolver.svg?color=42cfff
 
-[npm-url]: https://npmjs.org/package/resolvex
+[npm-url]: https://npmjs.org/package/objstr-resolver
 
-[download-image]: https://img.shields.io/npm/dt/resolvex.svg?color=3182b0
+[download-image]: https://img.shields.io/npm/dt/objstr-resolver.svg?color=3182b0
 
-[download-url]: https://npmjs.org/package/resolvex
+[download-url]: https://npmjs.org/package/objstr-resolver
 
   </div>
 
@@ -34,7 +34,7 @@
 ## Installation
 Install the package using `npm`:
 ```bash
-npm install --save-dev resolvex
+npm install --save-dev objstr-resolver
 ```
 
 ## Usage
@@ -44,7 +44,7 @@ import {
   resolveObjValue,
   resolveCondition, 
   resolveMath 
-} from 'resolvex';
+} from 'objstr-resolver';
 
 console.log(resolve(`$1`, false)('hello world'));                          // hello world
 console.log(resolve('$1>8')(9));                                           // true

@@ -1,5 +1,5 @@
 {
-  "name": "resolvex",
+  "name": "objstr-resolver",
   "version": "1.0.0",
   "description": "A simple package to interact with object using string easily.",
   "type": "module",
@@ -27,11 +27,11 @@
     "package.json"
   ],
   "bugs": {
-    "url": "https://github.com/NezitX/resolvex/issues"
+    "url": "https://github.com/NezitX/objstr-resolver/issues"
   },
-  "homepage": "https://github.com/NezitX/resolvex#readme",
+  "homepage": "https://github.com/NezitX/objstr-resolver#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NezitX/resolvex.git"
+    "url": "git+https://github.com/NezitX/objstr-resolver.git"
   }
 }
